@@ -1,4 +1,5 @@
 **Chat Application with Socket.io and MongoDB**
+
 This is a real-time chat application built using Node.js, Express, Socket.io, and MongoDB. It allows users to send and receive messages instantly in a chat room, with data being stored in MongoDB for persistence. The application features a clean and modern design using CSS for styling.
 
 **Key Features:**
